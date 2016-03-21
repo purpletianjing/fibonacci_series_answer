@@ -11,5 +11,6 @@ function fibonacci_series(n) {
     }
 
   }
+}
 
-  module.exports = fibonacci_series;
+module.exports = fibonacci_series;
